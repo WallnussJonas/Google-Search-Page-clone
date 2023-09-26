@@ -13,5 +13,5 @@ Learned about:
 - Classes
 - Centering
 - Flexbox
-- 
+
 Have fun recreating this ;)
